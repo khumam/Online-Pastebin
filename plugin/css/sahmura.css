@@ -1,0 +1,41 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.noRadius {
+    border-radius: 0;
+}
+
+.bg-black {
+    background: #042A38;
+    color: white;
+}
+
+.link-red {
+    color: #9B0C43;
+}
+
+.link-red:hover {
+    color: #760933;
+    text-decoration: none;
+}
+
+.bg-whitee {
+    background: #F7F5EB;
+    color: #042A38;
+}
+
+.btn-red {
+    background: #9B0C43;
+    color: white;
+}
+
+.bg-red {
+    background: #9B0C43;
+    color: white;
+}
+
+.btn-red:hover {
+    background: #760933;
+    color: white;
+}
