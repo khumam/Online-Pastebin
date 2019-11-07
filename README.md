@@ -5,7 +5,7 @@ Online notepad and online pastebin with various language code style
 First, create the database and a table
 
 ```
-CREATE TABLE  `epiz_23817834_notepad`.`isi` (
+CREATE TABLE  `isi` (
 `id` INT( 11 ) NOT NULL AUTO_INCREMENT PRIMARY KEY ,
 `judul` TEXT NOT NULL ,
 `author` VARCHAR( 200 ) NOT NULL ,

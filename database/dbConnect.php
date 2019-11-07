@@ -1,2 +1,2 @@
 <?php
-$db = mysqli_connect('localhost', 'root', '', 'onlinenotepad');
+$db = mysqli_connect('localhost', 'root', '', 'pastebin');
